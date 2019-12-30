@@ -1,0 +1,15 @@
+code/vendor/
+code/static/sass/**.css
+**.pyc
+#bower/
+data/
+**.DS_Store
+**.css.map
+#.env
+
+# Environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
